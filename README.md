@@ -1,185 +1,23 @@
-<div align="center">
+Software Engineer 🧑‍💻 specializing in Full-Stack Development , Java , Data Structures & Algorithms , AI/ML , Cloud Computing , DevOps , and System Design 👇.
 
-🚀 FEATURED PROJECTS
+👉 Technical Skills :
+➤   Frontend Development    👉  React.js , Next.js , Angular , HTML , CSS , Tailwind CSS , UI/UX .
+➤   Backend Development     👉  Java , Spring Boot , Node.js , Express.js , Django , REST APIs .
+➤   Programming Languages 👉  Java , JavaScript , Python , SQL .
+➤   Databases 👉  MongoDB , MySQL , Redis .
+➤   AI/ML        👉   Generative AI , Large Language Models ( LLMs ) , Prompt Engineering , Vector Search , RAG .
+➤   System Design         👉     Low-Level Design ( LLD ) , High-Level Design ( HLD ) , Scalable Architecture .
+➤   Cloud & DevOps      👉  AWS , Oracle Cloud Infrastructure ( OCI ) , Docker , Kubernetes , Git , GitHub , CI / CD .
+➤  Distributed Systems  👉  Apache Kafka , RabbitMQ , Microservices , Load Balancing , Asynchronous Communication .
 
-</div>
+▸ I have hands-on experience building scalable , secure , responsive , and high-performance applications using Next.js , React.js , Spring Boot , Node.js , and modern cloud technologies . I focus on developing reliable software solutions that deliver excellent performance , maintainability , and user experience .
 
-<table> <tr>
+▸ My experience includes building REST APIs , database-driven applications , reusable frontend components , backend services , and cloud-ready systems . I am also interested in designing applications using microservices , Docker , Kubernetes , Kafka , RabbitMQ , Redis , load balancers , and CI / CD pipelines to improve scalability , availability , and deployment efficiency .
 
-<td width="50%">
+▸ I am passionate about System Design , AI-powered applications , Generative AI , distributed systems , performance optimization , clean architecture , API security , and problem-solving . I enjoy transforming business requirements into efficient , reliable , scalable , and user-friendly technical solutions .
 
-🤖 AI Recommendation Engine
+▸ My development approach is centered around clean code , modular architecture , scalability , security , performance , continuous learning , collaboration , and quality engineering .
 
-Personalized recommendation system combining full-stack architecture with machine learning.
+▸ Open to opportunities in Software Engineering , Full-Stack Development , Java and Spring Boot Development , Backend Development , Next.js Development , AI/ML , Cloud Computing , DevOps , Distributed Systems , and System Design .
 
-Stack
-
-React Node.js MongoDB Python ML
-
-Highlights
-
-Personalized recommendations
-Scalable REST APIs
-ML-based ranking
-Data-driven personalization
-
-</td>
-
-<td width="50%">
-
-🛒 Distributed E-Commerce
-
-Production-style e-commerce architecture designed around scalability and modular services.
-
-Stack
-
-React Node.js MongoDB Redis Docker
-
-Highlights
-
-Authentication
-Product management
-Order processing
-Recommendation engine
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-💰 AI Affordability Agent
-
-AI system that analyzes purchase affordability and generates structured payment recommendations.
-
-Stack
-
-Python AI/ML APIs Data Processing
-
-Highlights
-
-Affordability analysis
-Payment planning
-Spending recommendations
-Structured AI output
-
-</td>
-
-<td width="50%">
-
-🧩 Full-Stack Applications
-
-Modern web applications built using MERN and MEAN architectures.
-
-Stack
-
-MongoDB Express React Angular Node.js
-
-Highlights
-
-Responsive UI
-REST APIs
-Authentication
-Database integration
-
-</td>
-
-</tr> </table>
-
-<div align="center">
-
-⚡ WHAT I'M WORKING ON
-
-</div>
-
-┌──────────────────────────────────────────────────────┐
-│                                                      │
-│   🧠 Advanced DSA                    █████████░ 90%  │
-│                                                      │
-│   ☕ Java + Spring Boot              ████████░░ 80%  │
-│                                                      │
-│   🏗️ System Design                  ████████░░ 80%  │
-│                                                      │
-│   🌐 Full-Stack Development          █████████░ 90%  │
-│                                                      │
-│   🤖 AI / Generative AI              ███████░░░ 70%  │
-│                                                      │
-│   ☁️ Cloud & DevOps                  ██████░░░░ 60%  │
-│                                                      │
-└──────────────────────────────────────────────────────┘
-
-<div align="center">
-
-🧩 DSA & PROBLEM SOLVING
-
-</div>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Arrays-✓-38BDF8?style=for-the-badge"/> <img src="https://img.shields.io/badge/Strings-✓-38BDF8?style=for-the-badge"/> <img src="https://img.shields.io/badge/Trees-✓-38BDF8?style=for-the-badge"/> <img src="https://img.shields.io/badge/Graphs-✓-38BDF8?style=for-the-badge"/> <img src="https://img.shields.io/badge/DP-✓-38BDF8?style=for-the-badge"/> <img src="https://img.shields.io/badge/Greedy-✓-38BDF8?style=for-the-badge"/> <img src="https://img.shields.io/badge/Recursion-✓-38BDF8?style=for-the-badge"/> <img src="https://img.shields.io/badge/Backtracking-✓-38BDF8?style=for-the-badge"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=JetBrains%20Mono&border=0&radius=12"/>
-
-</p>
-
-<div align="center">
-
-📊 GITHUB ANALYTICS
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=38BDF8&text_color=CBD5E1"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8"/>
-
-</div>
-
-<div align="center">
-
-🐍 CONTRIBUTION JOURNEY
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%"/>
-
-</div>
-
-<div align="center">
-
-🎯 CURRENT GOALS
-
-<table> <tr> <td align="center">☕<br/><b>Master Java</b></td> <td align="center">🧠<br/><b>Level Up DSA</b></td> <td align="center">🏗️<br/><b>System Design</b></td> <td align="center">🤖<br/><b>Build AI</b></td> <td align="center">☁️<br/><b>Cloud</b></td> </tr> </table>
-
-</div>
-
-<div align="center">
-
-🌐 LET'S CONNECT
-
-<a href="https://www.linkedin.com/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/> </a>
-
-<a href="https://github.com/YOUR_USERNAME"> <img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github"/> </a>
-
-<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME"> <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode"/> </a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-💙 BUILD • LEARN • SHIP • REPEAT
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=120&section=footer"/>
-
-</div>
+📩 For opportunities & collaborations : sayanghorai159@gmail.com
