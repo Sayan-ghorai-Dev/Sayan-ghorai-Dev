@@ -20,4 +20,4 @@ Software Engineer 🧑‍💻 specializing in Full-Stack Development , Java , Da
 
 ▸ Open to opportunities in Software Engineering , Full-Stack Development , Java and Spring Boot Development , Backend Development , Next.js Development , AI/ML , Cloud Computing , DevOps , Distributed Systems , and System Design .
 
-📩 For opportunities & collaborations : sayanghorai159@gmail.com
+📩 For opportunities & collaborations : sayanghorai62@gmail.com
